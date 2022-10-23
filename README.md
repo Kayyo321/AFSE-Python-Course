@@ -10,10 +10,28 @@ Each lesson has a unfinished, and a finished version.
 # Installing Python
 
 To install python go to [python's website](https://python.org)
-    1. Click ``Downloads``. ![Download button highlighted](ReadMeImg/DownloadButtonHighlighted.png)
-    2. Click ``Download Python``. ![Download python button highlighted](ReadMeImg/DownloadPythonButtonHighlighted.png)
-    3. Open up the installer. ![File Highlighted](ReadMeImg/FileHighlighted.png)
-    4. Check ``Add python.exe to PATH``. ![File Check-Box Highlighted](ReadMeImg/FileCheckBoxHighlighted.png)
-    5. Click ``Install Now`` ![Install Now Button](ReadMeImg/InstallNowButton.png)
-    6. Wait for the install to finish. ![Setup Waiting](ReadMeImg/SetupWaiting.png)
-    7. That's it! You can close the install window, and begin programming.
+1. Click ``Downloads``.
+    
+![Download button highlighted](ReadMeImg/DownloadButtonHighlighted.png)
+
+2. Click ``Download Python``. 
+
+![Download python button highlighted](ReadMeImg/DownloadPythonButtonHighlighted.png)
+
+3. Open up the installer. 
+
+![File Highlighted](ReadMeImg/FileHighlighted.png)
+
+4. Check ``Add python.exe to PATH``. 
+
+![File Check-Box Highlighted](ReadMeImg/FileCheckBoxHighlighted.png)
+
+5. Click ``Install Now`` 
+
+![Install Now Button](ReadMeImg/InstallNowButton.png)
+
+6. Wait for the install to finish. 
+
+![Setup Waiting](ReadMeImg/SetupWaiting.png)
+
+7. That's it! You can close the install window, and begin programming.
