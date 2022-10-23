@@ -11,7 +11,6 @@ Each lesson has a unfinished, and a finished version.
 
 To install python go to [python's website](https://python.org)
     1. Click ``Downloads``. ![Download button highlighted](ReadMeImg/DownloadButtonHighlighted.png)
-
     2. Click ``Download Python``. ==Depending on when you're using this guide, the latest version of python might be different; it should work the same.== ![Download python button highlighted](ReadMeImg/DownloadPythonButtonHighlighted)
     3. Open up the installer. ![File Highlighted](ReadMeImg/FileHighlighted.png)
     4. Check ``Add python.exe to PATH``. ![File Check-Box Highlighted](ReadMeImg/FileCheckBoxHighlighted.png)
