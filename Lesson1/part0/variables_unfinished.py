@@ -1,4 +1,7 @@
-# Test 1. 
+# NOTE: because this files is unfinished, it will start out with errors. If you write
+# your code correctly, the errors will go away.
+
+# Test 1.
 # We need to create a variable, 'x' (lowercase. You can assign this whatever you want.)
 # Write your code below this line.
 
@@ -36,3 +39,13 @@ if isinstance(z, str):
     print(z)
 else:
     print("Test #3 failed: 'z' is not a string.")
+
+# Test 4.
+# Practicing naming your variables. A variable name should relate to its use.
+# For example, if you have a variable that holds how many kids are in a class,
+# it should be named kidsInClass.
+# When naming a variable, you should use camel-case.
+# Create a variable that holds the name of a kid.
+# Fill in the blank:
+
+<name-the-variable> = "Loquacious"
